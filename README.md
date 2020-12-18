@@ -2,7 +2,7 @@
 Python language and data science classes for communication studies students
 
 ## 课程大纲
-| 小节 | 主要内容 |
+| 小节&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 主要内容 |
 | :-----| ----|
 | 第一节 | Python基础：Introduction、How to Run Python Code、Basic Python Syntax、Variables & Operators |
 | 第二节 | Python基础：Built-In Scalar Types & Data Structures、Control Flow Statements、Defining Functions、Errors and Exceptions |
@@ -32,7 +32,7 @@ Chrome
 Sublime Text 3.0
 
 ## 作业
-每周三提交本周练习，发到群公告的邮箱里。文件名格式：课节_学号_姓名.ipynb（例：01_0020200001_杨帆.ipynb）。  
+每周三提交本周练习，发到群公告的邮箱里。文件名格式：课节_学号_姓名.ipynb（例：01_31200000000_派森.ipynb）。  
 总结这周遇到的困难，每周上课第一节，按分组集中答疑。
 
 ### 分组
